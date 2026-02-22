@@ -62,6 +62,7 @@ Temperature and hour of the day are major predictors.
 Ensemble models significantly outperform linear models.
 
 ##📊 Visualizations Included
+
 Actual vs Predicted Scatter Plot
 Time-Series Comparison Plot
 Feature Importance Graph
