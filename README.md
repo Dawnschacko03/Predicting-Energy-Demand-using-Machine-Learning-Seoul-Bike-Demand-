@@ -22,7 +22,7 @@ Seasonal data
 Holiday indicators
 Bike rental counts (Target variable)
 
-⚙️ Technologies Used
+##⚙️ Technologies Used
 
 Python
 Pandas
@@ -34,34 +34,34 @@ Seaborn
 
 Models Implemented
 
-1️⃣ Linear Regression (Baseline Model)
+##1️⃣ Linear Regression (Baseline Model)
 Used as a benchmark model
 Assumes linear relationship between features and target
 Performance:
 R² ≈ 0.53
 High bias due to non-linearity in data
 
-2️⃣ Random Forest Regressor
+##2️⃣ Random Forest Regressor
 Ensemble learning model
 Handles non-linearity and feature interactions
 Performance:
 R² ≈ 0.92
 Significant improvement over linear regression
 
-3️⃣ XGBoost Regressor (Best Performing Model)
+##3️⃣ XGBoost Regressor (Best Performing Model)
 Gradient boosting framework
 Iteratively reduces residual errors
 Performance:
 R² ≈ 0.93 – 0.95
 Lowest RMSE among all models
 
-🔍 Key Insights
+##🔍 Key Insights
 Bike demand shows strong non-linear behavior.
 Weather conditions significantly impact rentals.
 Temperature and hour of the day are major predictors.
 Ensemble models significantly outperform linear models.
 
-📊 Visualizations Included
+##📊 Visualizations Included
 Actual vs Predicted Scatter Plot
 Time-Series Comparison Plot
 Feature Importance Graph
