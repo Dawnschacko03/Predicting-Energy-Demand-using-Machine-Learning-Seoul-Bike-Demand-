@@ -72,16 +72,24 @@ R² ≈ 0.92
 Significant improvement over linear regression
 
 ##3️⃣ XGBoost Regressor (Best Performing Model)
+
 Gradient boosting framework
 Iteratively reduces residual errors
+
 Performance:
+
 R² ≈ 0.93 – 0.95
+
 Lowest RMSE among all models
 
 ##🔍 Key Insights
+
 Bike demand shows strong non-linear behavior.
+
 Weather conditions significantly impact rentals.
+
 Temperature and hour of the day are major predictors.
+
 Ensemble models significantly outperform linear models.
 
 ##📊 Visualizations Included
