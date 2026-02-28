@@ -23,10 +23,15 @@ This project compares three regression models to evaluate performance difference
 
 Dataset Used: Seoul Bike Sharing Demand Dataset
 The dataset contains:
+
 8,760 hourly records
+
 Weather information
+
 Seasonal data
+
 Holiday indicators
+
 Bike rental counts (Target variable)
 
 ##⚙️ Technologies Used
