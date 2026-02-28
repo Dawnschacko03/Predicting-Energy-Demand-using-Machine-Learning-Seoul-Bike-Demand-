@@ -37,11 +37,17 @@ Bike rental counts (Target variable)
 ##⚙️ Technologies Used
 
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 XGBoost
+
 Matplotlib
+
 Seaborn
 
 Models Implemented
