@@ -53,10 +53,12 @@ Seaborn
 Models Implemented
 
 ##1️⃣ Linear Regression (Baseline Model)
-Used as a benchmark model
-Assumes linear relationship between features and target
+
+Used as a benchmark model. Assumes linear relationship between features and target
 Performance:
+
 R² ≈ 0.53
+
 High bias due to non-linearity in data
 
 ##2️⃣ Random Forest Regressor
