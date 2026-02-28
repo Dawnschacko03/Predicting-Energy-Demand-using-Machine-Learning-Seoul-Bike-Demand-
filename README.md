@@ -62,10 +62,13 @@ R² ≈ 0.53
 High bias due to non-linearity in data
 
 ##2️⃣ Random Forest Regressor
-Ensemble learning model
-Handles non-linearity and feature interactions
+
+Ensemble learning model. Handles non-linearity and feature interactions
+
 Performance:
+
 R² ≈ 0.92
+
 Significant improvement over linear regression
 
 ##3️⃣ XGBoost Regressor (Best Performing Model)
