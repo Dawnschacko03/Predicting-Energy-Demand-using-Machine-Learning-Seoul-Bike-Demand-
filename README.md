@@ -3,12 +3,19 @@ This project focuses on predicting hourly energy/demand (bike rental count) usin
 The objective is to analyze temporal and environmental factors such as:
 
 Hour of the day
+
 Temperature
+
 Humidity
+
 Rainfall & Snowfall
+
 Season
+
 Holiday
+
 Functioning day
+
 and build predictive models to optimize resource planning and operational efficiency.
 This project compares three regression models to evaluate performance differences between linear and non-linear approaches.
 
